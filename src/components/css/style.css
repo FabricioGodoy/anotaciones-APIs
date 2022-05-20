@@ -1,0 +1,21 @@
+* {
+    text-align: center;
+    box-sizing: border-box;
+    padding: auto;
+    margin: auto;
+    margin-top: 1vh;
+}
+
+.listado{
+    list-style: none;
+}
+
+.clickeador{
+    color: red;
+    border-radius: 30px ;
+    border-style: none;
+}
+.clickeador:hover{
+    box-shadow: 5px 1px 5px ;
+    color: blueviolet
+}

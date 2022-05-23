@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react'
 
 
-function UsoEstado(){
+function Contador(){
     const [count, setCount] = useState(0);
 
     useEffect(() => {
@@ -27,4 +27,4 @@ function UsoEstado(){
     </div>
  );
 }
-export default UsoEstado;
+export default Contador;

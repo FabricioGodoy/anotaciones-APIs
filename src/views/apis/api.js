@@ -23,7 +23,7 @@ const Api = () =>{
             <form action="/" className="inline">
                 <button >ir al HOME</button>
             </form>
-            <form action="/usoestado" className="inline">
+            <form action="/contador" className="inline">
                 <button >ir al Contador</button>
             </form>
             <form action="/apiDigimon" className="inline">

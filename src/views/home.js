@@ -10,7 +10,7 @@ function Home(){
             <button >ir a APIs</button>
         </form>
         
-        <form action="/usoestado" className="inline">
+        <form action="/contador" className="inline">
             <button >ir al Contador</button>
         </form>
         

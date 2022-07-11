@@ -1,0 +1,289 @@
+[
+    {
+        "title": "CONFIGURACION GENERAL",
+        "icon": "bi-lightning-fill",
+        "childrens": [
+            {
+                "title": "Variable",
+                "icon": "bi-arrow-bar-right",
+                "path": "/Variable"
+            },
+            {
+                "title": "Rango de precio - Categorias",
+                "icon": "bi-arrow-bar-right",
+                "path": "/config/range/price/categoria"
+            },
+            {
+                "title": "Grupos de características de productos",
+                "icon": "bi-arrow-bar-right",
+                "path" : "/config/grupo-caracteristica"
+               
+            }
+        ]
+    },
+    {
+        "title": "Configuración de CÓDIGOS DE OFERTA",
+        "icon": "bi-lightning-fill",
+        "childrens": [
+            {
+                "title": "Códigos de ofertas genéricos",
+                "icon":"bi-arrow-bar-right",
+                "path": "/config/codigo/oferta/index"
+            },
+            {
+                "title": "Códigos de ofertas personalizables",
+                "icon":"bi-arrow-bar-right",
+                "path": "/config/codigo/oferta/especial/index"
+            }
+        ]
+    },
+    {
+        "title": "PRODUCTOS RELACIONADOS A BUSQUEDAS",
+        "icon": "bi-lightning-fill",
+        "path": "/config/producto_destacado"
+    },
+    {
+        "title": "BUNDLE ASOCIADO A PRODUCTO",
+        "icon": "bi-lightning-fill",
+        "path": "/config/bundles_index"
+    },
+    {
+        "title": "CUOTAS",
+        "icon": "bi-lightning-fill",
+        "childrens": [
+            {
+                "title": "Configuración de precios",
+                "icon":"bi-arrow-bar-right",
+                "path": "/config/precio_cuotas_index"
+            },
+            {
+                "title": "Doce Cuotas",
+                "icon":"bi-arrow-bar-right",
+                "path": "/config/doce_cuotas_index"
+            },
+            {
+                "title": "Ahora 12",
+                "icon":"bi-arrow-bar-right",
+                "path": "/config/ahoradoce_index"
+            },
+            {
+                "title": "Ahora 18",
+                "icon":"bi-arrow-bar-right",
+                "path": "/config/ahoradieciocho_index"
+            }
+        ]
+    },
+    {
+        "title": "BANNERS / IMAGENES DEL INDEX",
+        "icon": "bi-lightning-fill",
+        "childrens": [
+            {
+                "title": "Bnner index",
+                "icon": "bi-arrow-bar-right",
+                "path": "/config/banner_index"
+            },
+            {
+                "title": "Productos destacados inicio (Carrusel de productos)",
+                "icon": "bi-arrow-bar-right",
+                "path": "/config/productos_index"
+            },
+            {
+                "title": "Categorías",
+                "icon": "bi-arrow-bar-right",
+                "path": "/config/categoria_index"
+            },
+            {
+                "title": "Oferta Bomba",
+                "icon": "bi-arrow-bar-right",
+                "path": "/config/oferta_index"
+            },
+            {
+                "title": "Divisor por marca",
+                "icon": "bi-arrow-bar-right",
+                "path": "/config/marca_index"
+            },
+            {
+                "title": "Eventos",
+                "icon": "bi-arrow-bar-right",
+                "path": "/config/evento_index"
+            },
+            {
+                "title": "Carrusel de marcas",
+                "icon": "bi-arrow-bar-right",
+                "path": "/config/marca_slider_index"
+            }
+        ]
+    },
+    {
+        "title": "CONSULTAS",
+        "icon": "bi-lightning-fill",
+        "childrens": [
+            {
+                "title": "Reporte de Cyber Monday",
+                "icon":"bi-arrow-bar-right",
+                "path": "/config/cyber_consulta"
+            },
+            {
+                "title": "Reporte Sorteo",
+                "icon":"bi-arrow-bar-right",
+                "path": "/config/sorteo_index"
+            }
+        ]
+    },
+    {
+        "title": "CONTROL GESTIONES",
+        "icon": "bi-lightning-fill",
+        "childrens": [
+            {
+                "title": "Reporte Pre-Compra",
+                "icon":"bi-arrow-bar-right",
+                "path": "/config/precompras"
+            },
+            {
+                "title": "Reporte Compra",
+                "icon":"bi-arrow-bar-right",
+                "path": "/config/compra_index"
+            }
+        ]
+    },
+    {
+        "title": "CONTROL FICHA",
+        "icon": "bi-lightning-fill",
+        "childrens": [
+            {
+                "title": "Editar ficha",
+                "icon":"bi-arrow-bar-right",
+                "path": "/config/ficha-editar"
+            },
+            {
+                "title": "Agregar secciones de vista producto",
+                "icon":"bi-arrow-bar-right",
+                "path": "/config/section"
+            },
+            {
+                "title": "Specs Principales",
+                "icon":"bi-arrow-bar-right",
+                "path": "/config/key-features"
+            }
+        ]
+    },
+    {
+        "title": "LANDING",
+        "icon": "bi-lightning-fill",
+        "childrens": [
+            {
+                "title": "Rango de precios Landings",
+                "icon":"bi-arrow-bar-right",
+                "path": "/config/range/price/landing"
+            },
+            {
+                "title": "Cyber Monday",
+                "icon":"bi-arrow-bar-right",
+                "path": "/config/cyber_index"
+            },
+            {
+                "title": "Outlet",
+                "icon":"bi-arrow-bar-right",
+                "path": "/config/destacados/index"
+            },
+            {
+                "title": "Navidad",
+                "icon":"bi-arrow-bar-right",
+                "path": "/config/navidad_index"
+            }
+            ,
+            {
+                "title": "Regreso a clases",
+                "icon":"bi-arrow-bar-right",
+                "path": "/config/back_to_school_index"
+            }
+            ,
+            {
+                "title": "Black Friday",
+                "icon":"bi-arrow-bar-right",
+                "path": "/config/friday_index"
+            }
+            ,
+            {
+                "title": "Funnel",
+                "icon":"bi-arrow-bar-right",
+                "path": "/config/funnel_index"
+            }
+            ,
+            {
+                "title": "Apple",
+                "icon":"bi-arrow-bar-right",
+                "path": "/config/apple/index"
+            }
+            ,
+            {
+                "title": "GoPro",
+                "icon":"bi-arrow-bar-right",
+                "path": "/config/gopro/index"
+            }
+            ,
+            {
+                "title": "Barra de Sonido",
+                "icon":"bi-arrow-bar-right",
+                "path": "/config/barra-sonido/index"
+            }
+            ,
+            {
+                "title": "TV",
+                "icon":"bi-arrow-bar-right",
+                "path": "/config/tv/index"
+            }
+            ,
+            {
+                "title": "Notebook",
+                "icon":"bi-arrow-bar-right",
+                "path": "/config/notebooks/index"
+            }
+            ,
+            {
+                "title": "Día del Padre",
+                "icon":"bi-arrow-bar-right",
+                "path": "/config/dia_padre/index"
+            }
+            ,
+            {
+                "title": "Gaming",
+                "icon":"bi-arrow-bar-right",
+                "path": "/config/gaming/index"
+            }
+            ,
+            {
+                "title": "HyperX",
+                "icon":"bi-arrow-bar-right",
+                "path": "/config/hyperx/index"
+            }
+            ,
+            {
+                "title": "HotSale Productos",
+                "icon":"bi-arrow-bar-right",
+                "path": "/config/hotsalepro/index"
+            }
+            ,
+            {
+                "title": "Shop Ofertas",
+                "icon":"bi-arrow-bar-right",
+                "path": "/config/shopofertas/index"
+            }
+        ]
+    },
+    {
+        "title": "DESTACADOS",
+        "icon": "bi-lightning-fill",
+        "path": "/config/destacados/index"
+    },
+    {
+        "title": "BADGES",
+        "icon": "bi-lightning-fill",
+        "path": "/config/badges/index"
+    },
+    {
+        "title": "BLOG",
+        "icon": "bi-lightning-fill",
+        "path": "/config/index/blog/entry"
+    }
+]
